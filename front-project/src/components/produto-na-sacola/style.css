@@ -1,0 +1,38 @@
+.productCard-container{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 280px;
+    height: 88px;
+    margin-bottom: 10px;
+}
+.movie-container{
+    display: flex;
+    align-items: center;
+}
+.infoCard-container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 8px;
+    width: 130px;
+    text-overflow: ellipsis;
+}
+.add-remove-movie{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 86px;
+}
+.poster{
+    width: 43px;
+    height: 57px;
+}
+.infoCard-container span{
+    margin-bottom: 5px;
+}
+span{
+    margin:0;
+}
+.add-remove-button:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.title-container {
+  display: flex;
+  flex-wrap: nowrap;
+  min-width: 90%;
+  max-width: 90%;
+  max-height: 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  max-width: 100px;
+  font-size: 16px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: bold;
+}
+.nota{
+  color:#ebb76b;
+}

@@ -1,0 +1,28 @@
+.input{
+    width: 866px;
+    height: 56px;
+    background-color: #1D2226;
+    box-sizing: border-box;
+    border: none;
+    color: white;
+}
+::placeholder{
+    color: #FDFDFD;
+}
+.input:hover{
+    border: 1px solid #8C8C8C;
+}
+.input-container{
+    position: relative;
+}
+.search-icon{
+    width: 25px;
+    height: 25px;
+    position:absolute;
+    z-index: 1;
+    top: 25%;
+    right:2%;
+}
+.search-icon:hover{
+    cursor: pointer;
+}

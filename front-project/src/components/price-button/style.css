@@ -1,0 +1,21 @@
+.button-container{
+    width: 152px;
+    height: 26px;
+    background-color: #A785ED;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-family: 'Manrope', sans-serif;
+}
+.button-container:hover{
+    cursor: pointer;
+    background-color: #876cbd;
+}
+
+.price-button{
+    font-size: 12px;
+}

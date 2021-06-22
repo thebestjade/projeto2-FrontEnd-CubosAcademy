@@ -1,0 +1,25 @@
+.header{
+    background-color: #0F1C26;
+    min-height: 104px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.avatar-container{
+    display: flex;
+    align-items: center;
+}
+.avatar{
+    width: 56px;
+    height: 65px;
+    margin-right: 133px;
+    margin-left: 15px;
+}
+.logo{
+    margin-left: 70px;
+}
+span{
+    font-weight: 500;
+    margin-right: 10px;
+    font-size: 16px;
+}

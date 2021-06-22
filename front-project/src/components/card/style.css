@@ -1,0 +1,17 @@
+.card{
+    width: 168px;
+    height: 301px;
+    margin-right: 24px;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+.movie{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+

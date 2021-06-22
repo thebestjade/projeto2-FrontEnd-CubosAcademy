@@ -1,0 +1,12 @@
+.main-container{
+    width: 1079px;
+    display: flex;
+    flex-direction: column;
+}
+.cards-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.main-titulo{
+    font-size: 24px;
+}
